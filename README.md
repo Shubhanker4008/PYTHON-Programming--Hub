@@ -1,76 +1,102 @@
 # Python Programming Hub 🐍
 
-Welcome to my Python Programming Hub!
+### Python Development | Problem Solving | Practical Projects
 
-I'm Shubhanker Singh, and this repository documents my journey of learning Python programming through practical examples, exercises, and projects or my skills
+Welcome to my Python Programming Hub! This repository showcases my Python programming journey, practical projects, coding exercises, and continuous technical development.
 
-## 🎯 Objectives
+## 👨‍💻 About Me
 
-- Learn Python fundamentals.
-- Practice writing clean and readable code.
-- Understand programming concepts through examples.
-- Develop problem-solving skills.
-- Build a foundation for automation, data analytics, and AI.
+Hi, I'm **Shubhanker Singh**, an Agriculture graduate currently pursuing an MBA in Agribusiness Management.
 
-## 📚 Topics Covered
+I am developing my programming and problem-solving skills through Python, practical projects, and technology-driven learning.
 
-- Basic Python syntax
-- Variables and data types
-- Input and output
-- Operators
-- Conditional statements
-- Loops
-- Functions
-- Lists, tuples, sets, and dictionaries
-- File handling
-- Exception handling
-- Mini-projects
+My goal is to build a career at the intersection of technology, data analytics, AI, and agribusiness.
 
-*Topics will be added as I learn and implement them.*
+## 🎯 Repository Objectives
 
-## 🚀 Getting Started
+- Build strong Python programming fundamentals.
+- Develop logical thinking and problem-solving skills.
+- Create practical, real-world applications.
+- Explore automation and data analytics.
+- Develop a professional programming portfolio.
 
-### Requirements
+## 🛠️ Technologies \& Tools
 
-- Python 3
-- A code editor, such as Visual Studio Code
+| Technology | Purpose |
+| --- | --- |
+| Python | Programming |
+| Git | Version Control |
+| GitHub | Code Hosting |
+| VS Code / Antigravity | Development Environment |
 
-### Run a Python Program
+## 📂 Repository Structure
 
-Clone this repository:
-
-```bash
-git clone https://github.com/Shubhanker4008/PYTHON-Programming--Hub.git
+``` text
+PYTHON-Programming--Hub/
+│
+├── 01-python-basics/
+│   ├── about_me.py
+│   ├── about.py
+│   └── My-first-Program.py
+│
+├── 02-python-Projects/
+│   ├── agriculture_cost_classifier.py
+│   ├── agriculture_input_calculator.py
+│   ├── profile.py
+│   └── student_registration.py
+│
+├── My-first-Program.py
+├── .gitignore
+└── README.md
 ```
 
-Open the repository folder and run a Python file:
+## 🚀 Featured Projects
 
-```bash
-python My-first-Program.py
-```
+### 1\. Agriculture Cost Classifier
 
-## 💻 Example
+A Python project focused on classifying agricultural costs.
 
-```python
-print("Hello, World!")
-```
+### 2\. Agriculture Input Calculator
 
-Output:
+A practical calculator designed for agricultural input calculations.
 
-```text
-Hello, World!
-```
+### 3\. Student Registration System
 
-## 🌱 My Learning Goals
+A beginner-level Python project demonstrating student registration and data handling.
 
-My goal is to strengthen my Python programming skills and apply them to real-world problems in business, agriculture, data analytics, and artificial intelligence.
+### 4\. Personal Profile Program
 
-## 👨‍💻 Author
+A simple Python application demonstrating basic programming concepts.
 
-**Shubhanker Singh**
+## 📚 Learning Roadmap
 
-GitHub: [Shubhanker4008](https://github.com/Shubhanker4008)
+- [ ] Python installation and setup
+- [ ] First Python programs
+- [ ] Basic Python projects
+- [ ] Variables and data types
+- [ ] Conditional statements
+- [ ] Loops
+- [ ] Functions
+- [ ] Lists, tuples, sets and dictionaries
+- [ ] Object-Oriented Programming
+- [ ] File handling
+- [ ] Exception handling
+- [ ] Modules and packages
+- [ ] Data analytics with Python
+- [ ] Automation projects
+
+## 🎓 Education
+
+- B.Sc. Agriculture (Hons.)
+- MBA in Agribusiness Management — Pursuing
+
+## 🔗 Connect With Me
+
+- **GitHub:** [Shubhanker4008](<https://github.com/Shubhanker4008>)
+- **LinkedIn:** [Shubhanker Singh](<https://www.linkedin.com/in/shubhanker-singh-051428328>)
 
 ---
 
-This repository is a work in progress. New examples and projects will be added as my skills develop.
+⭐ Thank you for visiting my Python Programming Hub!
+
+*Learning, building, improving — one project at a time.*
